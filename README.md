@@ -1,2 +1,2 @@
-# photo-slider
+# image-slider
 responsive image slider
